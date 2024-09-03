@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Poppins:ital@0;1&family=Protest+Guerrilla&family=Roboto:ital,wght@0,400;0,700;1,400&family=SUSE:wght@100..800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=New+Amsterdam&family=Poppins:ital@0;1&family=Protest+Guerrilla&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,400;0,700;1,400&family=SUSE:wght@100..800&display=swap');
+
+body {font-family:"Suse", sans-serif}
+h1{font-family: "New Amsterdam"; }
+body {color: black;background-color: rgb(194, 194, 194);}
+h4{text-decoration:underline; font-weight: 900; text-align: center;}
+
+
+
